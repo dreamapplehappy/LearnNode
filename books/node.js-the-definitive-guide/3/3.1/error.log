@@ -1,0 +1,10 @@
+module.js:341
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/dreamapple/Learn/LearnNode/books/node.js-the-definitive-guide/3/script.js'
+    at Function.Module._resolveFilename (module.js:339:15)
+    at Function.Module._load (module.js:290:25)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:141:18)
+    at node.js:933:3
