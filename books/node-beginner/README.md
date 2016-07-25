@@ -1,18 +1,18 @@
 ### Node入门
-+ [ ] 关于
-    - [ ] 状态
-    - [ ] 读者对象
-    - [ ] 本书结构
-+ [ ] JavaScript与Node.js
-    - [ ] JavaScript与你
-    - [ ] 简短声明
-    - [ ] 服务端JavaScript   
-    - [ ] "Hello World"   
-+ [ ] 一个完整的基于Node.js的web应用
-    - [ ] 用例
-    - [ ] 应用不同模块分析
++ [x] 关于
+    - [x] 状态
+    - [x] 读者对象
+    - [x] 本书结构
++ [x] JavaScript与Node.js
+    - [x] JavaScript与你
+    - [x] 简短声明
+    - [x] 服务端JavaScript   
+    - [x] "Hello World"   
++ [x] 一个完整的基于Node.js的web应用
+    - [x] 用例
+    - [x] 应用不同模块分析
 + [ ] 构建应用的模块
-    - [ ] 一个基础的HTTP服务器
+    - [x] 一个基础的HTTP服务器
     - [ ] 分析HTTP服务器
     - [ ] 进行函数传递
     - [ ] 函数传递是如何让HTTP服务器工作的
